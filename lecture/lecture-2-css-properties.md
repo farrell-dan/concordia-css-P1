@@ -70,7 +70,7 @@ The shorthand version is usually the best option.
 |           Example          |  ⬆   |  ➡  |   ⬇  |  ⬅  |
 |----------------------------|------|------|------|------|
 | margin: 24px 0px 5px 10px; | 24px |  0px |  5px | 10px |
-|    margin: 24px 0px 5px;   | 24px |  0px |  5px | 24px |
+|    margin: 24px 0px 5px;   | 24px |  0px |  5px | 0px  |
 |      margin: 24px 0px;     | 24px |  0px | 24px | 0px  |
 |        margin: 24px        | 24px | 24px | 24px | 24px |
 

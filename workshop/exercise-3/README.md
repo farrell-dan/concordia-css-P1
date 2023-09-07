@@ -3,7 +3,7 @@
 - Open the provided index.html file in the browser.
 - Modify the `style.css` file to match the following image
 
-![exercise-3 goal](../../__1-lecture/assets/ex-3-goal.png)
+![exercise-3 goal](../.././lecture/assets/ex-3-goal.png)
 
 Properties you will likely need
 

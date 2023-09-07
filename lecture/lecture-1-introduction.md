@@ -145,11 +145,11 @@ In HTML, if an id exists more than once on the page, everything breaks! Classes 
 
 ## Which selector should I use?
 
-| Type  | Example | Rating |
-|-------|---------|--------|
-| class | .title  | 👍👍   |
-|  tag  | `<h1>`  |  👍    |
-|   id  |  #title | 👎👎👎 |
+| Type  | HTML  | Selector | Rating |
+|-------|-------|----------|--------|
+| class | `<h1 class="title">` | .title |   👍👍    |
+| tag   | `<h1>`               | h1     |   👍      |
+| id    | `<h1 id="title">`    | #title |   👎👎👎  |
 
 Basically never style by using an id. Classes are always your best choice.
 

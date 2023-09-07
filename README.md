@@ -4,14 +4,14 @@
 
 ⏲️ _Estimated time required: 30 minutes._
 
-Do [exercises.md](__0-pre-lecture) prior to the start of the lecture.
+- Complete these [Exercises](./pre-lecture/exercises.md)
 
 ---
 
 ## 🦉 Lecture
 
-- [lecture-1-introduction.md](__1-lecture/lecture-1-introduction.md)
-- [lecture-2-css-properties.md](__1-lecture/lecture-2-css-properties.md)
+- [Lecture 1 | Introduction](./lecture/lecture-1-introduction.md)
+- [Lecture 2 | CSS Properties](./lecture/lecture-2-css-properties.md)
 
 ---
 
@@ -19,12 +19,12 @@ Do [exercises.md](__0-pre-lecture) prior to the start of the lecture.
 
 _Unless specified in the exercise, don't worry about the fonts. Some of the screenshots were taken on Linux and the base system font is a little different._
 
-### Exercise 1
+### [Exercise 1](./workshop/exercise-1/)
 
 - Open the provided index.html file in the browser.
 - Modify the `style.css` file to match the following image
 
-![exercise-1 goal](./__1-lecture/assets/ex-1-goal.png)
+![exercise-1 goal](././lecture/assets/ex-1-goal.png)
 
 - background color is `blue`
 - properties used: `padding`, `border`, `background`, `color`, `border-radius`.
@@ -33,12 +33,12 @@ _Unless specified in the exercise, don't worry about the fonts. Some of the scre
 
 ---
 
-### Exercise 2
+### [Exercise 2](./workshop/exercise-2/)
 
 - Open the provided index.html file in the browser.
 - Modify the `style.css` file to match the following image
 
-![exercise-2 goal](./__1-lecture/assets/ex-2-goal.png)
+![exercise-2 goal](././lecture/assets/ex-2-goal.png)
 
 - Colors used are `pink` and `fuchsia`
 - text size is `5em` for the last line.
@@ -46,12 +46,12 @@ _Unless specified in the exercise, don't worry about the fonts. Some of the scre
 
 ---
 
-### Exercise 3
+### [Exercise 3](./workshop/exercise-3/)
 
 - Open the provided index.html file in the browser.
 - Modify the `style.css` file to match the following image
 
-![exercise-3 goal](./__1-lecture/assets/ex-3-goal.png)
+![exercise-3 goal](././lecture/assets/ex-3-goal.png)
 
 Properties you will likely need
 
@@ -66,41 +66,41 @@ text-align
 
 ---
 
-### Exercise 4
+### [Exercise 4](./workshop/exercise-4/)
 
 The style.css file contains errors. Modify that file, and only that file, to produce the following output:
 
-![exercise-4 goal](./__1-lecture/assets/ex-4-goal.png)
+![exercise-4 goal](././lecture/assets/ex-4-goal.png)
 
 ---
 
-### Exercise 5
+### [Exercise 5](./workshop/exercise-5/)
 
 The style.css file has been corrupted. Repair the CSS so that the page matches the image below.
 
-![exercise-5 goal](./__1-lecture/assets/ex-5-goal.png)
+![exercise-5 goal](././lecture/assets/ex-5-goal.png)
 
 _No modifications to the HTML file._
 
 ---
 
-### Exercise 6
+### [Exercise 6](./workshop/exercise-6/)
 
 Add the CSS needed to reproduce this page.
 
-![exercise-6 goal](./__1-lecture/assets/ex-6-goal.png)
+![exercise-6 goal](././lecture/assets/ex-6-goal.png)
 
 The exact measurements are not needed. Try and estimate the values (colors, font-sizes, etc).
 
 ---
 
-### Exercise 7
+### [Exercise 7](./workshop/exercise-7/)
 
 Complete both the HTML and CSS files to reproduce the following web page:
 
 _It isn't necessary to make it pixel perfect._
 
-![exercise-7 goal](./__1-lecture/assets/ex-7-goal.png)
+![exercise-7 goal](././lecture/assets/ex-7-goal.png)
 
 ---
 
@@ -108,11 +108,11 @@ _It isn't necessary to make it pixel perfect._
 
 ---
 
-### Exercise 8
+### [Exercise 8](./workshop/exercise-8/)
 
 Update the CSS file to reproduce the following:
 
-![exercise-8 goal](./__1-lecture/assets/ex-8-goal.png)
+![exercise-8 goal](././lecture/assets/ex-8-goal.png)
 
 #### Properties Needed
 
@@ -123,11 +123,11 @@ visibility
 
 ---
 
-### Exercise 9
+### [Exercise 9](./workshop/exercise-9/)
 
 Update the CSS file to reproduce the following:
 
-![exercise-9 goal](./__1-lecture/assets/ex-9-goal.png)
+![exercise-9 goal](././lecture/assets/ex-9-goal.png)
 
 - The cat is moved to the top left of the screen.
 - The alpaca stays at the top left of the screen but must appear on top of the cat image.
@@ -155,11 +155,11 @@ You might want to make use of `calc()`.
 
 ---
 
-### Exercise 10 - Stretch
+### [Exercise 10](./workshop/exercise-10-stretch/) - Stretch
 
 Using CSS, create a button that animates on hover:
 
-![stretch-1 goal](./__1-lecture/assets/stretch-1-goal.gif)
+![stretch-1 goal](././lecture/assets/stretch-1-goal.gif)
 
 - It should color to a dark-blue when focused. It should **not** have the typical "focus ring" (blue outline on MacOS, dotted outline on Windows).
 - It should shrink when the mouse is held down on it.
@@ -175,10 +175,10 @@ Using CSS, create a button that animates on hover:
 
 ## Resources
 
-- https://css-tricks.com/almanac/selectors/a/active/
-- https://css-tricks.com/almanac/selectors/f/focus/
-- https://css-tricks.com/almanac/properties/t/transition/
-- https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale
+- [CSS-Tricks: :active](https://css-tricks.com/almanac/selectors/a/active/)
+- [CSS-Tricks: :focus](https://css-tricks.com/almanac/selectors/f/focus/)
+- [CSS-Tricks: transition](https://css-tricks.com/almanac/properties/t/transition/)
+- [MDN: scale()](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale)
 
 ## Links to more practice
 
