@@ -1,6 +1,5 @@
 body{
     font-family: Comic Sans MS;
-    font-size: medium;
 }
 h1, .subtitle {
     text-align: center;
@@ -11,4 +10,13 @@ h1, .subtitle {
 h1, p{
     margin-top: 0;
     margin-bottom: 0;
+}
+.title{
+    font-size: 2em;
+}
+.subtitle{
+    font-size: 1.5em; 
+}
+.content{
+    font-size: 1em;
 }
