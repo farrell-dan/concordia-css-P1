@@ -19,23 +19,41 @@ li {
 /* ADD CSS BELOW */
 
 body {
+  text-align: center;
 }
 
 h1,
 h2 {
+  font-family: Comic Sans MS;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 h1 {
+  font-weight: bolder;
+  margin-top: 25px;
 }
 
 h2 {
+  margin-top: 15px;
+  font-weight: bold;
 }
 
 .row {
+  margin: 15px;
 }
 
 .col {
+  background-color: lightgray;
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 1.5px;
+  border-color: black;
+  border-style: dashed;
 }
 
 .image {
+  height: 150px;
+  padding: 15px;
 }
