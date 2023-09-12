@@ -13,7 +13,9 @@ Write the CSS to make the cat text blue.
 ```
 
 ```css
-/* css here */
+.feline{
+  color: blue;
+}
 ```
 
 ---
@@ -31,7 +33,9 @@ Write the CSS to make sub-headings blue
 ```
 
 ```css
-/* css here */
+h2{
+  color: blue;
+}
 ```
 
 ---
@@ -46,7 +50,9 @@ Write the CSS to make the cat text blue.
 ```
 
 ```css
-/* css here */
+.royalcat{
+  color: blue;
+}
 ```
 
 ---
@@ -62,7 +68,9 @@ Write the CSS to make the dogs text red.
 ```
 
 ```css
-/* css here */
+.canine{
+  color: red;
+}
 ```
 
 ---
@@ -84,7 +92,9 @@ Target specifically cat animals, and not categories
 ```
 
 ```css
-/* css here */
+.animal.cat{
+  color: blue;
+}
 ```
 
 ---
@@ -103,3 +113,4 @@ p {
   color: red;
 }
 ```
+blue
