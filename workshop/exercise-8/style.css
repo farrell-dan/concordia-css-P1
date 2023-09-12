@@ -3,13 +3,24 @@ img {
 }
 
 .img1 {
+  max-height: 400px;
 }
 
 .img2 {
+  visibility: hidden;
+  position: fixed;
 }
 
 .img3 {
+  visibility: hidden;
+  position: fixed;
 }
 
 .img4 {
+  max-height: 277px;
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
 }
